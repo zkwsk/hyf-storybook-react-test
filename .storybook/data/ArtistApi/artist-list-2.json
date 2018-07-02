@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Michael Jackson",
+    "year_of_birth": 1951
+  },
+  {
+    "id": 2,
+    "name": "Prince",
+    "year_of_birth": 1951
+  },
+  {
+    "id": 3,
+    "name": "Chopin",
+    "year_of_birth": 1951
+  },
+  {
+    "id": 4,
+    "name": "Miles Davis",
+    "year_of_birth": 1951
+  },
+  {
+    "id": 5,
+    "name": "Paul McCartney",
+    "year_of_birth": 1951
+  },
+  {
+    "id": 6,
+    "name": "Madonna",
+    "year_of_birth": 1951
+  },
+  {
+    "id": 7,
+    "name": "Elvis Presley",
+    "year_of_birth": 1951
+  },
+  {
+    "id": 8,
+    "name": "Bruce Springsteen",
+    "year_of_birth": 1951
+  }
+]
